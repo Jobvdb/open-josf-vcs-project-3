@@ -1,0 +1,29 @@
+{
+  "baseUrl" : null,
+  "activeEnvironmentId" : null,
+  "webAUTPreferences" : {
+    "browser" : "Remote Chrome",
+    "stopWhenElementNotFound" : false
+  },
+  "securitySettings" : {
+    "certificateSettings" : {
+      "storePath" : "C:\\Program Files\\Java\\jdk1.8.0_201\\jre\\lib\\security\\cacerts",
+      "storePassword" : "changeit",
+      "storeType" : "jks",
+      "sslCheckingDisabled" : false
+    },
+    "proxySettings" : {
+      "proxyHost" : null,
+      "proxyPort" : 8080,
+      "proxyUsername" : null,
+      "proxyPassword" : null,
+      "isEnabled" : false,
+      "isEnabledForDriverDownload" : false,
+      "isEnabledForBrowserProxy" : false,
+      "isEnabledForAPIRequests" : false,
+      "useCredentials" : false,
+      "autoDetect" : false
+    }
+  },
+  "licence" : "Transavia - team 1\r\nX+S55ERiUmWJnQXp5QMwGIRruvRLWSQ6VTwztFRBmFlpJ6CNpRRCM9vYdLTOcXgCg2pqrZ44UIMi\r\nDFLxbJCrdGEfjw0iYm6FdmG4oVP3n61+DhBdkxBqm28VHHuCRJPka0yTImTILJs="
+}
