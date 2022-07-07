@@ -2,7 +2,7 @@
   "steps" : null,
   "testStepGroups" : [ ],
   "title" : "some test case",
-  "description" : null,
+  "description" : "added a description",
   "id" : "oejver5d2p",
   "dataDrivenStorageId" : null,
   "tags" : [ ]
