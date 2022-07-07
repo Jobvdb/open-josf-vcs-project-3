@@ -2,7 +2,7 @@
   "baseUrl" : null,
   "activeEnvironmentId" : null,
   "webAUTPreferences" : {
-    "browser" : "Remote Chrome",
+    "browser" : "Headless Chrome",
     "stopWhenElementNotFound" : false
   },
   "securitySettings" : {
