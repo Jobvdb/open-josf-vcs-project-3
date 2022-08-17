@@ -1,8 +1,8 @@
 {
-  "baseUrl" : null,
-  "activeEnvironmentId" : "rk2g2k91qkr2",
+  "baseUrl" : "${base url}",
+  "activeEnvironmentId" : "e28k8267x6g3",
   "webAUTPreferences" : {
-    "browser" : "Headless Chrome",
+    "browser" : "Remote Chrome",
     "stopWhenElementNotFound" : false
   },
   "securitySettings" : {

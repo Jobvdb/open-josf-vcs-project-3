@@ -1,0 +1,60 @@
+{
+  "objectType" : "PageObjectModel",
+  "id" : "45o2q4k73193",
+  "title" : "Google home",
+  "description" : null,
+  "objectType" : "PageObjectModel",
+  "tags" : null,
+  "objectList" : [ {
+    "id" : "1c679975-3e5f-48a6-9656-cc3f7c7adb9f",
+    "title" : "Accept cookies button",
+    "testObjects" : [ {
+      "type" : "pageScanner",
+      "object" : "innerText=Alles accepteren",
+      "pageScannerQuery" : "containsText=Alles%20accepteren?hidden=false",
+      "pageObjectReference" : null
+    }, {
+      "type" : "raw",
+      "object" : "className=QS5gu sy4vM",
+      "pageScannerQuery" : null,
+      "pageObjectReference" : null
+    } ],
+    "index" : 1
+  } ],
+  "actionList" : [ {
+    "id" : "e7d59987-7e7f-44b2-b9a9-63cae53b3256",
+    "title" : "Accept cookies",
+    "variableList" : [ ],
+    "steps" : [ {
+      "version" : null,
+      "result" : null,
+      "message" : null,
+      "executionTimeMs" : 0,
+      "webAction" : {
+        "actionName" : "click",
+        "object" : {
+          "type" : "pageObjectReference",
+          "object" : "",
+          "pageScannerQuery" : null,
+          "pageObjectReference" : {
+            "pageId" : "45o2q4k73193",
+            "objectId" : "1c679975-3e5f-48a6-9656-cc3f7c7adb9f"
+          }
+        },
+        "testdata" : {
+          "data" : "",
+          "type" : "text"
+        },
+        "takeScreenshot" : "0",
+        "screenshot" : null
+      },
+      "apiAction" : null,
+      "pageActionReference" : null,
+      "dataSheetReference" : null,
+      "testStepGroup" : null,
+      "contextId" : null,
+      "hasBreakpoint" : false,
+      "isDisabled" : false
+    } ]
+  } ]
+}
