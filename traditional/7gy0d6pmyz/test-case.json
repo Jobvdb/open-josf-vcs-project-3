@@ -1,0 +1,59 @@
+{
+  "steps" : null,
+  "testStepGroups" : [ {
+    "groupType" : 0,
+    "groupName" : "Accept the cookies",
+    "testSteps" : [ {
+      "version" : null,
+      "result" : null,
+      "message" : null,
+      "executionTimeMs" : 0,
+      "webAction" : null,
+      "apiAction" : null,
+      "pageActionReference" : {
+        "pageObjectModelId" : "45o2q4k73193",
+        "pageActionId" : "e7d59987-7e7f-44b2-b9a9-63cae53b3256",
+        "variables" : [ ],
+        "ranSteps" : null
+      },
+      "dataSheetReference" : null,
+      "testStepGroup" : null,
+      "contextId" : null,
+      "hasBreakpoint" : false,
+      "isDisabled" : false
+    }, {
+      "version" : null,
+      "result" : null,
+      "message" : null,
+      "executionTimeMs" : 0,
+      "webAction" : {
+        "actionName" : "type",
+        "object" : {
+          "type" : "raw",
+          "object" : "name=q",
+          "pageScannerQuery" : null,
+          "pageObjectReference" : null
+        },
+        "testdata" : {
+          "data" : "${calculation}\n",
+          "type" : "text"
+        },
+        "takeScreenshot" : "0",
+        "screenshot" : null
+      },
+      "apiAction" : null,
+      "pageActionReference" : null,
+      "dataSheetReference" : null,
+      "testStepGroup" : null,
+      "contextId" : null,
+      "hasBreakpoint" : false,
+      "isDisabled" : false
+    } ],
+    "groupCondition" : null
+  } ],
+  "title" : "My calculations",
+  "description" : null,
+  "id" : "7gy0d6pmyz",
+  "dataDrivenStorageId" : "44p521682q3o",
+  "tags" : [ "calculator" ]
+}
