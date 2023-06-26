@@ -1,3 +1,6 @@
 {
-  "variables" : [ ]
+  "variables" : [ {
+    "id" : "445q5467p4p7",
+    "name" : "base url"
+  } ]
 }

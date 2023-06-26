@@ -1,3 +1,6 @@
 {
-  "environments" : [ ]
+  "environments" : [ {
+    "id" : "e28k8267x6g3",
+    "name" : "Google domain"
+  } ]
 }
