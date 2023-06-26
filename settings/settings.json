@@ -21,9 +21,10 @@
       "isEnabledForDriverDownload" : false,
       "isEnabledForBrowserProxy" : false,
       "isEnabledForAPIRequests" : false,
+      "isEnabledForGIT" : false,
       "useCredentials" : false,
       "autoDetect" : false
     }
   },
-  "licence" : "Transavia - team 1\r\nX+S55ERiUmWJnQXp5QMwGIRruvRLWSQ6VTwztFRBmFlpJ6CNpRRCM9vYdLTOcXgCg2pqrZ44UIMi\r\nDFLxbJCrdGEfjw0iYm6FdmG4oVP3n61+DhBdkxBqm28VHHuCRJPka0yTImTILJs="
+  "licence" : "Daniel Lankheet - JOSF Developer\r\nJzmYW3In0JyzmiQh0tbDvToYlVAREHHaGUI9Wjt0yQQg9u68B4viOqLwufn8WnyywGcfJyqUpCj0\r\nd8XmEFoxZXMiKCCBDjf3VBQZqxxkmecH37fZrINhYREx3nXIY6Jfaueu8EOsiLJT5ck6p9BbJmTk\r\ncA7cfnuKvjImmW4QRcJcvHGbsAS61Q=="
 }
