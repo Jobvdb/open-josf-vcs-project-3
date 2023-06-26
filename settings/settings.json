@@ -1,0 +1,30 @@
+{
+  "baseUrl" : null,
+  "activeEnvironmentId" : null,
+  "webAUTPreferences" : {
+    "browser" : "Remote Chrome",
+    "stopWhenElementNotFound" : false
+  },
+  "securitySettings" : {
+    "certificateSettings" : {
+      "storePath" : "C:\\Program Files\\Eclipse Adoptium\\jdk-8.0.345.1-hotspot\\jre\\lib\\security\\cacerts",
+      "storePassword" : "changeit",
+      "storeType" : "jks",
+      "sslCheckingDisabled" : false
+    },
+    "proxySettings" : {
+      "proxyHost" : null,
+      "proxyPort" : 8080,
+      "proxyUsername" : null,
+      "proxyPassword" : null,
+      "isEnabled" : false,
+      "isEnabledForDriverDownload" : false,
+      "isEnabledForBrowserProxy" : false,
+      "isEnabledForAPIRequests" : false,
+      "isEnabledForGIT" : false,
+      "useCredentials" : false,
+      "autoDetect" : false
+    }
+  },
+  "licence" : "Daniel Lankheet - JOSF Developer\r\nJzmYW3In0JyzmiQh0tbDvToYlVAREHHaGUI9Wjt0yQQg9u68B4viOqLwufn8WnyywGcfJyqUpCj0\r\nd8XmEFoxZXMiKCCBDjf3VBQZqxxkmecH37fZrINhYREx3nXIY6Jfaueu8EOsiLJT5ck6p9BbJmTk\r\ncA7cfnuKvjImmW4QRcJcvHGbsAS61Q=="
+}
