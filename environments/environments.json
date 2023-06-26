@@ -1,3 +1,6 @@
 {
-  "environments" : [ ]
+  "environments" : [ {
+    "id" : "1g22p9krx11o",
+    "name" : "my env"
+  } ]
 }

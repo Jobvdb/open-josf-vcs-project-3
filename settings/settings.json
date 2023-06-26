@@ -1,6 +1,6 @@
 {
   "baseUrl" : null,
-  "activeEnvironmentId" : null,
+  "activeEnvironmentId" : "1g22p9krx11o",
   "webAUTPreferences" : {
     "browser" : "Remote Chrome",
     "stopWhenElementNotFound" : false
