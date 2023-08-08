@@ -20,8 +20,11 @@
   }, {
     "displayName" : "Headless Chrome",
     "hubUri" : "http://localhost:4444/wd/hub",
-    "browserName" : "chrome",
+    "browserName" : "edge",
     "capabilities" : { },
-    "arguments" : [ "--headless" ]
+    "arguments" : [
+  "--headless",
+  "--remote-allow-origins=*"
+]
   } ]
 }
